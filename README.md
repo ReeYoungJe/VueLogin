@@ -9,7 +9,7 @@ npm install --global yarn
 ```
 SDK 설치 : npm install --save firebase
 
-CLI 설치 : npm install -g firebase-tools
+CLI 설치 : npm install -g firebase-toolst
 
 권한 문제 발생시 
 Window PowerShell 에서 명령어 입력
