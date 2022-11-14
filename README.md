@@ -1,9 +1,35 @@
-# vuevibe
+# FireBase Login
 
 ## Yarn Install
 ```
 npm install --global yarn
 ```
+
+## Firebase
+```
+SDK 설치 : npm install --save firebase
+
+CLI 설치 : npm install -g firebase-tools
+
+권한 문제 발생시 
+Window PowerShell 에서 명령어 입력
+Set-ExecutionPolicy Unrestricted
+
+firebase login
+
+firebase init
+
+```
+
+
+
+
+## Vue-Router@4 버전
+```
+npm install vue-router@4
+```
+
+
 
 ## Bootstrap Install
 ```
