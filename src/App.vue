@@ -1,5 +1,5 @@
 <template>
-  <Header/>
+  <Header :title="title"/>
   <router-view>
 
   </router-view>
@@ -23,7 +23,8 @@ export default {
     return{
       data:data,
       comment : '내용 변경',
-      count : '0'
+      count : '0',
+      title : 'Logo'
     }
   },
   components: {
